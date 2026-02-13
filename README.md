@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there👋</h1>
 <br>
 
 I'm a programmer studying Systems Analysis and Development passionate about backend development. Recently, I have also been exploring web development.
