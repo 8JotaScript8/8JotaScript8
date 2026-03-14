@@ -5,7 +5,7 @@ I'm a programmer studying Systems Analysis and Development passionate about back
 
 **Talking about Personal Stuffs:**
 - I am currently developing a REST API with Python and Django REST Framework  
-- Ask me anything, if I don't know the answer we can research it together. <img height="381" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuaWo3ajllbTA3ZXk3cHlnejVuYWNsMDUzYXlmcHhuc3p3YjF2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzHAmqQ01zjjy/giphy.gif"  />
+- Ask me anything, if I don't know the answer we can research it together. <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJuaWo3ajllbTA3ZXk3cHlnejVuYWNsMDUzYXlmcHhuc3p3YjF2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zzHAmqQ01zjjy/giphy.gif"  />
 
 **Languages and Tools:**<br>
 * `Main:`<br><br>
