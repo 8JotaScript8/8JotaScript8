@@ -8,7 +8,7 @@ I'm a programmer studying Systems Analysis and Development passionate about back
 </div>
 
 **Talking about Personal Stuffs:**
-- I am currently developing a REST API with Python and Django REST Framework  
+- I recently made a system called "Study Manager" with Python and Django. Learn more in the repository 
 - Ask me anything, if I don't know the answer we can research it together. 
 
 **Languages and Tools:**<br>
