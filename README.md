@@ -8,7 +8,7 @@ I'm a programmer studying Systems Analysis and Development passionate about back
 </div>
 
 **Talking about Personal Stuffs:**
-- I recently made a system called "Study Manager" with Python and Django. Learn more in the repository 
+- At the moment I'm learning how to develop applications with several technologies and frameworks of Java ecosystems 
 - Ask me anything, if I don't know the answer we can research it together. 
 
 **Languages and Tools:**<br>
