@@ -15,7 +15,9 @@ I'm a programmer studying Systems Analysis and Development passionate about back
 * `Main:`<br><br>
     ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+    <img src="https://img.shields.io/badge/Spring%20Boot-41B300?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
     ![JavaScript](https://img.shields.io/badge/JavaScript%20%20-grey?style=for-the-badge&logo=javascript)
 * `Database:`<br><br>
     ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
